@@ -22,8 +22,6 @@ To design and develop a visually appealing and fully responsive landing page for
 
 ## 🛠 Technologies Used
 
-### חובה (Required)
-
 * HTML5
 * CSS3
 * JavaScript
